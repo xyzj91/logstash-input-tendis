@@ -20,7 +20,7 @@ require "stud/interval"
 module LogStash module Inputs class Redis < LogStash::Inputs::Threadable
   BATCH_EMPTY_SLEEP = 0.25
 
-  config_name "redis"
+  config_name "tendis"
 
   default :codec, "json"
 
@@ -367,4 +367,4 @@ EOF
 
 # end
 
-end end end # Redis Inputs  LogStash
+end end end # Tendis Inputs  LogStash
