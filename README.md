@@ -1,7 +1,7 @@
 # Logstash Plugin
 
 Travis Build
-[![Travis Build Status](https://travis-ci.com/logstash-plugins/logstash-input-redis.svg)](https://travis-ci.com/logstash-plugins/logstash-input-redis)
+[![Travis Build Status](https://travis-ci.com/logstash-plugins/logstash-input-redis.svg)](https://github.com/xyzj91/logstash-input-tendis)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
